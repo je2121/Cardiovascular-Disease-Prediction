@@ -24,9 +24,9 @@ Predicting the presence of cardiovascular disease from patient health metrics us
    pip install pandas numpy matplotlib seaborn scikit-learn xgboost joblib
    ```
 
-3. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset) and place `cardio_train.csv` in the `data/` folder
+3. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset) and copy path `cardio_train.csv` 
 
-4. Open and run `notebooks/cvd_prediction.ipynb`
+4. Open and run
 
 ## Approach
 
